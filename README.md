@@ -42,7 +42,7 @@ EDA was conducted to understand the structure and distribution of the data. Key 
 - Significant feedback was observed during key events, highlighting user engagement.
 
 ## Sentiment Analysis Methodology
-We employed natural language processing (NLP) techniques and machine learning models to classify user sentiments accurately. The analysis was conducted using cleaned datasets to ensure reliable insights.
+We employed natural language processing (NLP) techniques and transformers to classify user sentiments accurately. The analysis was conducted using cleaned datasets to ensure reliable insights.
 
 ## Findings
 The analysis revealed important trends regarding how platform-specific updates influence user perceptions. Key insights include:
